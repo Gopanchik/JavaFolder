@@ -8,26 +8,5 @@ public class Main {
 
         int random_number = random.nextInt(41) - 20;
         System.out.println(random_number);
-
-
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
