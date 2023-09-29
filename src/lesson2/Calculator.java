@@ -18,10 +18,10 @@ public class Calculator {
         double b = scanner.nextInt();
 
         System.out.println("Choose the operator + - * /: ");
-        String c = scanner.next();
+        String g = scanner.next();
 
         System.out.println("The result of addition these numbers");
-        switch (c) {
+        switch (g) {
             case "+":
                 System.out.println(a + b);
                 break;
