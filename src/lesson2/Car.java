@@ -14,7 +14,7 @@ public class Car {
     @Override
     public String toString() {
 
-    return "My car: \nname = " + name + ", speed of car = " + speed;
+    return "My car: \nname = " + name + ", speed  of car = " + speed;
 
     }
 
