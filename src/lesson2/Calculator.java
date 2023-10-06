@@ -5,10 +5,10 @@ import java.util.Scanner;
 public class Calculator {
 
     public static void main(String[] args) {
-        calculate();
+        calculater();
     }
 
-    public static void calculate() {
+    public static void calculater() {
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
